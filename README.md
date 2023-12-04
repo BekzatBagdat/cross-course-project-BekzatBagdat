@@ -1,6 +1,7 @@
-# Your project title
+# GameHub
 
-![image](https://user-images.githubusercontent.com/52622303/164316813-4b12d99f-aeb7-4069-85cf-e72b3a50ac99.png)
+![Gamehub](https://github.com/BekzatBagdat/cross-course-project-BekzatBagdat/assets/89454659/8f4a8749-9081-41ac-a9fc-0843b8394970)
+
 
 A simple overview of the use/purpose of the project.
 
