@@ -28,6 +28,4 @@ The steps i took in the development of this project:
 
 ## Contact
 
-This is where you can leave your social links for people to contact you, such as a LinkedIn profile or Twitter link e.g.
-
-[My Email](bekzatuwp@gmail.com)
+E-mail: bekzatuwp@gmail.com
